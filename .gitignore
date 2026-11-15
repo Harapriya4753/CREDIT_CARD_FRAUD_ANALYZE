@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+.venv312/
+venv/
+.streamlit/secrets.toml
+creditcard.csv
